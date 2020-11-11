@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EB4BB5FF255AC89600451F27 /* lato-bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EB4BB5FE255AC89600451F27 /* lato-bold.ttf */; };
+		EB4BB604255AC89C00451F27 /* lato-regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EB4BB603255AC89C00451F27 /* lato-regular.ttf */; };
 		EBB9F0B425599B7A001AFB67 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB9F0B325599B7A001AFB67 /* AppDelegate.swift */; };
 		EBB9F0B625599B7A001AFB67 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB9F0B525599B7A001AFB67 /* SceneDelegate.swift */; };
 		EBB9F0B825599B7A001AFB67 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB9F0B725599B7A001AFB67 /* ViewController.swift */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EB4BB5FE255AC89600451F27 /* lato-bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lato-bold.ttf"; sourceTree = "<group>"; };
+		EB4BB603255AC89C00451F27 /* lato-regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "lato-regular.ttf"; sourceTree = "<group>"; };
 		EBB9F0B025599B7A001AFB67 /* Expense.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Expense.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBB9F0B325599B7A001AFB67 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EBB9F0B525599B7A001AFB67 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +110,8 @@
 				EBB9F0BC25599B7B001AFB67 /* Assets.xcassets */,
 				EBB9F0BE25599B7B001AFB67 /* LaunchScreen.storyboard */,
 				EBB9F0C125599B7B001AFB67 /* Info.plist */,
+				EB4BB5FE255AC89600451F27 /* lato-bold.ttf */,
+				EB4BB603255AC89C00451F27 /* lato-regular.ttf */,
 			);
 			path = Expense;
 			sourceTree = "<group>";
@@ -234,6 +240,8 @@
 				EBB9F0C025599B7B001AFB67 /* LaunchScreen.storyboard in Resources */,
 				EBB9F0BD25599B7B001AFB67 /* Assets.xcassets in Resources */,
 				EBB9F0BB25599B7A001AFB67 /* Main.storyboard in Resources */,
+				EB4BB604255AC89C00451F27 /* lato-regular.ttf in Resources */,
+				EB4BB5FF255AC89600451F27 /* lato-bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
